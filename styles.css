@@ -1,0 +1,13 @@
+body {
+    margin: 8px;
+    background-color: darkgray;
+    margin: 12px;
+    padding: 25px;
+    margin-right: 155px;
+}
+#mainHeading {
+    color:red;
+}
+.funParagraph{
+    color: green;
+}
